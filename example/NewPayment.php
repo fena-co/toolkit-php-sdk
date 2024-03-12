@@ -15,7 +15,7 @@ class NewPayment
         $terminalSecret = '55d7d5ed-be22-4321-bb3f-aec8524d8be2';
         $orderId = 'ABC';
         $amount = '10.00';
-        $bankId = 'Default';
+        $bankId = '8afa74ae93b29fe8be53db50'; //give bank Id in which you want to receive the payments in or pass empty string for default one
 
         $connection = Connection::createConnection($terminalId, $terminalSecret);
 
