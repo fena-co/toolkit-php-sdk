@@ -8,7 +8,7 @@ Full documentation can be found at: https://docs.fena.co
 
 ## Requirements
 
-PHP 7.0.0 and later.
+PHP 7.2.0 and later.
 
 ## Installation
 
