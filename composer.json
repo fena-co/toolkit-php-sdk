@@ -11,8 +11,7 @@
     "license": "MIT",
     "require": {
         "ext-json": "*",
-        "ext-curl": "*",
-        "fena/toolkit-php-payment-sdk": "^1.0"
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
