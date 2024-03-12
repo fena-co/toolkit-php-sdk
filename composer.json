@@ -1,5 +1,5 @@
 {
-    "name": "fena/toolky-php-payment-sdk",
+    "name": "fena/toolkit-php-payment-sdk",
     "description": "SDK for working with Fena Toolkit payment APIs.",
     "type": "library",
     "authors": [
