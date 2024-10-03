@@ -4,7 +4,7 @@ SDK for working with toolkit payment APIs.
 
 ## Documentation
 
-Full documentation can be found at: https://docs.fena.co
+Full documentation can be found at: https://toolkit-docs.fena.co/sdk/php-sdk
 
 ## Requirements
 
