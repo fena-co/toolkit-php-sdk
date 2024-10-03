@@ -65,6 +65,7 @@ $payment = Payment::createPayment(
     $connection,
     $amount = '10.00',
     $reference = 'AA-11',
+    $bankId = '8afa74ae9fe8be53db50'
 );
 
 $user = User::createUser(
